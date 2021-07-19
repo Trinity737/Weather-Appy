@@ -15,5 +15,6 @@ a {
   text-align: center;
 }
 li {
-  text-align: center;
+  display: block;
+  margin: 0;
 }
